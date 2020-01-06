@@ -1,4 +1,4 @@
-{% extends "ap2.j2" %}
+{% extends "ap.j2" %}
 
 {% block summary %}
     <p>Dit applicatieprofiel beschrijft een informatiemodel voor een toepassing met als use case het gestructureerd raadplegen of vernieuwen van de Vlaamse regelgeving.</p>
@@ -33,3 +33,6 @@ Dergelijke bijkomende beperkingen kunnen de volgende elementen bevatten:</p>
 </p>  
 {% endblock %}
 
+{% block jsonld %}
+<p>Een herbruikbare JSON-LD context definitie voor dit applicatieprofiel is terug te vinden op: <a href="../../../context/vlaamse-codex.jsonld" target="_blank">https://data.vlaanderen.be/context/vlaamse-codex.jsonld</a></p>
+{% endblock %}
