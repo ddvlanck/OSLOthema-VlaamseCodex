@@ -1,0 +1,41 @@
+{
+  "naam": "Applicatieprofiel Vlaamse Codex",
+  "verantwoordelijke_organisatie": "Departement Kanselarij en Bestuur",
+  "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO001827",
+  "publicatiedatum": "2019-02-07",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Vocabularium & applicatieprofielen",
+  "specificatiedocument": [
+    {
+      "naam": "Applicatieprofiel Vlaamse Codex",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/vlaamse-codex/"
+    }
+  ],
+  "documentatie": [],
+  "charter": [],
+  "verslagen": [
+    {
+      "naam": "Werkgroepsessie 2 maart 2018",
+      "waarde": "Vlaamse Codex - Klankbordgroep sessie 2 maart 2018.pdf"
+    },
+    {
+      "naam" : "Werkgroepsessie 25 september 2018",
+      "waarde" : "Verslag (Klankbordgroep) - Implementatie van de Vlaamse Codex - 25-09-2018.pdf"
+    },
+    {
+      "naam" : "Webcast 27 november 2018",
+      "waarde" : "Verslag (Webcast) - Implementatie van de Vlaamse Codex - 27-11-2018.pdf"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam" : "Proof-of-concept SPARQL Endpoint",
+      "waarde" : "http://staging.opendata.codex.vandenbroele.be:8888/sparql"
+    }
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor het ontsluiten van (geconsolideerde) regelgevende documenten.",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid en in het bijzonder de Vlaamse Codex",
+  "datum_van_aanmelding": "10 April 2018",
+  "erkenning_werkgroep_datastandaarden": "4 december 2018",
+  "erkenning_stuurgroep": "07 febuari 2019"
+}
